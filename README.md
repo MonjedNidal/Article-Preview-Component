@@ -15,8 +15,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-article-preview-app-reactjstailwind-mNCOsgQ5MC](https://www.frontendmentor.io/solutions/responsive-article-preview-app-reactjstailwind-mNCOsgQ5MC)
+- Live Site URL: [https://monjed-article-preview-app.netlify.app/](https://monjed-article-preview-app.netlify.app/)
 
 ## My process
 
